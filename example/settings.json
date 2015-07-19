@@ -1,0 +1,4 @@
+{
+    //glob pattern
+    "siteParsers": "./siteParsers/*.js"
+}

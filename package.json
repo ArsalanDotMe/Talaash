@@ -1,0 +1,29 @@
+{
+  "name": "talaash",
+  "version": "0.1.0",
+  "description": "A web crawler for Nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArsalanDotMe/talaash.git"
+  },
+  "keywords": [
+    "crawler",
+    "crawling",
+    "spider",
+    "spidering",
+    "scraping",
+    "scraper",
+    "robot",
+    "bot",
+    "cheerio"
+  ],
+  "author": "ArsalanDotMe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArsalanDotMe/talaash/issues"
+  }
+}
